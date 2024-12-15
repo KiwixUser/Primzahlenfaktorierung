@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Primzahlenfaktorierung/v17/.wsuo
+/.vs/Primzahlenfaktorierung/v17/Browse.VC.db
+/.vs/Primzahlenfaktorierung/v17/Browse.VC.db-shm
+/.vs/Primzahlenfaktorierung/v17/Browse.VC.db-wal
+/.vs/Primzahlenfaktorierung/v17/Browse.VC.opendb
+/.vs/Primzahlenfaktorierung/v17/Solution.VC.db
+/.vs/Primzahlenfaktorierung/FileContentIndex/9af877f7-fd0b-4d20-9f41-25f1a0dabd39.vsidx
+/.vs/Primzahlenfaktorierung/FileContentIndex/f1a0b2b1-06eb-4c25-bab7-9050a44ba1fb.vsidx
+/.vs/Primzahlenfaktorierung/v17/ipch/AutoPCH/4011860d4d1f6913/PRIMEFACTORS.ipch
+/.vs/Primzahlenfaktorierung/v17/ipch/AutoPCH/7148a75e76338265/PRIMEFACTORS.ipch
+/.vs/Primzahlenfaktorierung/v17/ipch/AutoPCH/fba4c3daf1f2cf40/PRIMEFACTORS.ipch
+/.vs/Primzahlenfaktorierung/config/applicationhost.config
+/.vs/Primzahlenfaktorierung/FileContentIndex/143120a5-40fd-4c67-b470-9addf6788695.vsidx
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/Primzahlenfaktorierung/FileContentIndex
