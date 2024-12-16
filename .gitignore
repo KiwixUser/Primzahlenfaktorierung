@@ -19,3 +19,12 @@
 /.vs/slnx.sqlite
 /.vs/VSWorkspaceState.json
 /.vs/Primzahlenfaktorierung/FileContentIndex
+/.vs/PrimeFactors
+/PrimeFactors/.vs/PrimeFactors/FileContentIndex/bccaa09a-35a1-41a1-8b6e-9739b99d7caf.vsidx
+/PrimeFactors/.vs/PrimeFactors/v17/.suo
+/PrimeFactors/.vs/PrimeFactors/v17/Browse.VC.db
+/PrimeFactors/.vs/PrimeFactors/v17/ipch/AutoPCH/f167b8979c8e7dd3/PRIMEFACTORS.ipch
+/PrimeFactors/x64/Release
+/PrimeFactors/Arithmetic.h
+/x64/Release/PrimeFactors.exe
+/x64/Release/PrimeFactors.pdb
